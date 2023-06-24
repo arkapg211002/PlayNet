@@ -10,6 +10,8 @@
 
 [https://playnet-sandy.vercel.app/](https://playnet-sandy.vercel.app/)
 
+![pagespeed](https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.playnet.screenshot.svg)
+
 <h2>Project Screenshots:</h2>
 
 <img src="https://raw.githubusercontent.com/arkapg211002/PlayNet/main/2023-06-24%20(4).png" alt="project-screenshot" width="1000" height="400/">
