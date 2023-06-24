@@ -1,6 +1,50 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">PlayNet</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/arkapg211002/PlayNet/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+<p id="description">A YouTube Clone with YouTube API Integration PlayNet is an innovative web application that replicates the functionality of YouTube developed using HTML CSS JavaScript JSX ReactJS and React Router DOM. By leveraging the power of the YouTube API v3 from Rapid API PlayNet provides users with a seamless experience of discovering and watching videos browsing channels and exploring different genres. Upon launching PlayNet users are greeted with a visually appealing home page that dynamically fetches and displays the latest 20 videos from the YouTube API. This ensures that users stay up-to-date with the most recent content available on the platform. The video thumbnails titles and relevant details are presented in an organized and user-friendly manner resembling the familiar layout of YouTube. To enhance user exploration PlayNet offers a menu featuring various video genres. Users can easily navigate through different genres such as music sports gaming news and more. By selecting a genre PlayNet fetches and presents a curated list of videos within that specific category allowing users to discover content tailored to their interests. The search functionality in PlayNet enables users to find specific channels of their choice. The search bar accepts user input and dynamically retrieves channel information based on the entered query. Users can enter keywords or the name of the channel they are looking for and PlayNet promptly fetches the relevant search results from the YouTube API. Upon selecting a specific channel users are redirected to a dedicated channel page that showcases the channel's videos playlists and other pertinent information. One crucial aspect to consider is the usage of the YouTube API's rate limits. PlayNet is designed to optimize API calls taking into account the limit of 500 API calls per day. To ensure efficient utilization the application fetches a maximum of 20 videos for any given search or request providing users with a manageable and relevant selection of content. Overall PlayNet aims to replicate the core functionalities of YouTube while offering a personalized and streamlined user experience. With its seamless integration of the YouTube API v3 from Rapid API PlayNet empowers users to discover and enjoy a vast array of videos browse channels and explore various genres all within a familiar and user-friendly interface.</p>
+
+<p align="center"><img src="https://img.shields.io/github/license/arkapg211002/PlayNet" alt="shields"><img src="https://img.shields.io/github/contributors/arkapg211002/PlayNet" alt="shields"><img src="https://img.shields.io/github/commit-activity/t/arkapg211002/PlayNet" alt="shields"><img src="https://img.shields.io/github/languages/count/arkapg211002/PlayNet" alt="shields"><img src="https://img.shields.io/github/languages/top/arkapg211002/PlayNet" alt="shields"><img src="https://img.shields.io/website?up_message=online&amp;up_color=blue&amp;down_message=offline&amp;down_color=lightgrey&amp;url=https%3A%2F%2Fplaynet-sandy.vercel.app%2F&amp;style=flat&amp;logo=appveyor&amp;logoColor=violet&amp;label=healthiness&amp;labelColor=abcdef&amp;color=fedcba&amp;cacheSeconds=3600" alt="shields"><img src="https://img.shields.io/github/deployments/arkapg211002/PlayNet/vercel" alt="shields"><img src="https://img.shields.io/github/languages/code-size/arkapg211002/PlayNet" alt="shields"><img src="https://img.shields.io/github/directory-file-count/arkapg211002/PlayNet" alt="shields"><img src="https://img.shields.io/github/repo-size/arkapg211002/PlayNet" alt="shields"></p>
+
+<h2>🚀 Demo</h2>
+
+[https://playnet-sandy.vercel.app/](https://playnet-sandy.vercel.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://raw.githubusercontent.com/arkapg211002/PlayNet/main/2023-06-24%20(4).png" alt="project-screenshot" width="1000" height="400/">
+
+<img src="https://raw.githubusercontent.com/arkapg211002/PlayNet/main/2023-06-24%20(3).png" alt="project-screenshot" width="1000" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Stream Videos
+*   Search any channel
+*   500 API fetch per day
+*   20 videos per search
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   HTML
+*   CSS
+*   Javascript
+*   ReactJS
+*   RapidAPI
+*   React-router-dom
+*   JSX
+*   Youtube-api-v3
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
 
 ## Available Scripts
 
