@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://raw.githubusercontent.com/arkapg211002/DocApp/main/app.png';
+export const logo = 'https://raw.githubusercontent.com/arkapg211002/PlayNet/main/public/applogo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
